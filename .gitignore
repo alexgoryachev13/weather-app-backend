@@ -1,0 +1,10 @@
+*.log
+.eslintcache
+.DS_Store
+node_modules
+build
+.webpack
+.vscode
+/.idea
+yarn.lock
+.firebase/*

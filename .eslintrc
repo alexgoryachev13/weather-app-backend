@@ -1,0 +1,12 @@
+{
+  "extends": ["node"],  
+  "parser": "babel-eslint",
+    "env": {
+      "node": true
+    },
+    "rules": {
+      "indent": ["error", 2, { "SwitchCase": 1 }],
+      "import/no-commonjs": 0,
+      "no-underscore-dangle": 0
+    }    
+}
